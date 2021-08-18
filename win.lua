@@ -1,6 +1,6 @@
---[[bypasses blacklisted emoji such as cucumber and peach
+--[bypasses blacklisted emoji such as cucumber and peach
 
-]
+--]
 
 a=getrawmetatable(game)
 b=a.__namecall
